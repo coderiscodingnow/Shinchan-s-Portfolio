@@ -1,0 +1,28 @@
+body{
+    background-color:beige;
+    
+    
+}    
+h1,h2,h3 {
+    color:white;
+    background-color:brown;
+    
+}
+.hello{
+    font-family:cursive;
+}
+h1{
+    color:brown;
+    background-color:khaki;
+    
+}
+.me,.skills,.achievements,.contact,.info{
+    color:crimson;
+}
+.form{
+    margin-right:90px;
+    color:lightcoral;
+}
+.review{
+    color:brown;
+}
