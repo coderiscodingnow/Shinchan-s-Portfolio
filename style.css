@@ -1,0 +1,28 @@
+body{
+    background-color:honeydew;
+    
+    
+}    
+h1,h2,h3 {
+    color:blue;
+    background-color: pink;
+    
+}
+.hello{
+    font-family:cursive;
+}
+h1{
+    color:aquamarine;
+    background-color:darkblue;
+    
+}
+.me,.skills,.achievements,.contact,.info{
+    color:deeppink;
+}
+.form{
+    margin-right:90px;
+    color:lightcoral;
+}
+.review{
+    color:brown;
+}
